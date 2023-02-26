@@ -1,1 +1,1 @@
-# DesignPatternsInterfaceSegregationPrincipleExplained
+# Design Patterns - Interface Segregation Principle Explained
